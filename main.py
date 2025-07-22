@@ -11,8 +11,8 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import CallbackQueryHandler
 
 # === 🔐 Configuration ===
-TOKEN = "8141685986:AAGInaARxt7Q-6Z43myV8AtIN2y62SyG_5U"  # Replace with your Telegram bot token
-ADMIN_PASSWORD = "Sahana@123"  # Set your admin login password
+TOKEN =  " Replace with your Telegram bot token"
+ADMIN_PASSWORD =   "Set your admin login password"
 AUTHORIZED_USERS = set()  # Stores authenticated user IDs
 
 # === 🔑 Encryption Setup ===
