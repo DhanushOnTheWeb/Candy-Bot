@@ -1,6 +1,6 @@
 # Candy-Bot
 
-🔐 Candy Bot — Your Encrypted File Manager on Telegram
+🔐 Candy Bot — Is A  Encrypted File Manager on Telegram
 Securely upload, organize, and retrieve documents—all from a simple chat interface. Built and maintained by Dhanush, this bot transforms Telegram into a robust digital vault with folder structure, smart indexing, and military-grade encryption.
 
 🍭 Key Features of the Candy Bot
