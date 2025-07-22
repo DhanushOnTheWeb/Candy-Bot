@@ -20,8 +20,7 @@ Securely upload, organize, and retrieve documents—all from a simple chat inter
 - 🗑️ /delete filename.ext → Deletes a file from Candy Bot (Only accessible by authorized users) 🔒
 - 📦 You Can Directly Upload The Files In Candy Bot. 
 
-
-#🖥️ Output
+🖥️ Output
 
 
 <img width="500" height="500" alt="Screenshot 2025-07-22 201422" src="https://github.com/user-attachments/assets/fbc4b996-039e-49ac-87a2-7d885dc131e8" /> (1)
